@@ -1,4 +1,2 @@
-./git_upload.sh
-./.gitignore
-./Chapter1_Linear_Regression/.ipy*
-
+.gitignore
+git_upload.sh
